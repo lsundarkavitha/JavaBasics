@@ -10,7 +10,7 @@ public class SingleDimensionalArray {
 		System.out.println(text);
 		
 		
-		String text1[]= {"Munny","Kiran","Kumar","Vijay","Ajay"};
+		String text1[]= {"Munny","Kiran","Kumar","Vijay","Ajay","Shashwath"};
 		//to print the total values in the array
 		System.out.println(text1.length);
 		
