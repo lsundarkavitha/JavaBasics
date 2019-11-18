@@ -6,7 +6,7 @@ public class StringExample2 {
 		// static
 		//StringExample2 words=new StringExample2();
 		//words.stringOperationsNonStatic("Shashwath Sudhakar");
-		//stringOperationsStatic("Kavitha Sundar");
+		stringOperationsStatic("Kavitha Sundar");
 		
 		//System.out.println(returnTextLengthStatic("Kamal Hassan"));
 		//System.out.println(words.returnCharacterNonStatic("KKPK"));
